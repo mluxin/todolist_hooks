@@ -4,8 +4,8 @@ const UserTable = props => (
   <table>
     <thead>
       <tr>
-        <th>Name</th>
-        <th>Username</th>
+        <th>What ?</th>
+        <th>Write more</th>
         <th>Actions</th>
       </tr>
     </thead>
